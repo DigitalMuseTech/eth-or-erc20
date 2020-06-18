@@ -1,0 +1,13 @@
+{
+  "name": "eth-or-erc20",
+  "version": "1.0.0",
+  "description": "A newer coin flip",
+  "main": "index.html",
+  "repository": "https://github.com/DigitalMuseTech/eth-or-erc20.git",
+  "author": "Brandon",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "web3": "^1.2.9"
+  }
+}
